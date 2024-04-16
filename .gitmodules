@@ -1,0 +1,3 @@
+[submodule "statistics/stats"]
+	path = statistics/stats
+	url = git@github.com:kthohr/stats.git
